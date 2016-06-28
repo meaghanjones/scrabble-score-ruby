@@ -26,4 +26,7 @@ describe('String#scrabble_score') do
   it('returns a score of 8 for the word hello') do
     expect("hello".scrabble_score()).to(eq(8))
   end
+  it('returns a score even when there are capital letters') do
+    expect("HelLo".scrabble_score()).to(eq(8))
+  end
 end
