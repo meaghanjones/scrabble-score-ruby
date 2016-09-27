@@ -1,6 +1,6 @@
 # Ruby Scrabble Score Counter
 
-#### By _**Meaghan Jones and Rony Brett New**_
+#### By _**Meaghan Jones and Brett New**_
 
 ## Description 
 
